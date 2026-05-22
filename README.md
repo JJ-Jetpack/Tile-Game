@@ -10,8 +10,10 @@ Assets:
 
 Characters:
 Pixel Art Sprites | Free Animated Character Asset 16x16
+[Pixel Art Sprites | Free Animated Character Asset 16x16](https://meafabulis.itch.io/pixel-art-sprites-free-animated-character-asset)
 https://meafabulis.itch.io/pixel-art-sprites-free-animated-character-asset
 
 Music:
 Abstraction - Music Loop Bundle
+[Abstraction - Music Loop Bundle](https://tallbeard.itch.io/music-loop-bundle)
 https://tallbeard.itch.io/music-loop-bundle
