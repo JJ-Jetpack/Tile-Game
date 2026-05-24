@@ -8,11 +8,9 @@ Game:
 
 Assets:
 
-| World:
-| [The field of the floating islands | Buch](https://opengameart.org/content/the-field-of-the-floating-islands)
+| World: [The field of the floating islands | Buch](https://opengameart.org/content/the-field-of-the-floating-islands)
 
-| Characters:
-| [Pixel Art Sprites | Free Animated Character Asset 16x16](https://meafabulis.itch.io/pixel-art-sprites-free-animated-character-asset)
+| Characters: [Pixel Art Sprites | Free Animated Character Asset 16x16](https://meafabulis.itch.io/pixel-art-sprites-free-animated-character-asset)
 
 Music:
 [Abstraction - Music Loop Bundle](https://tallbeard.itch.io/music-loop-bundle)
