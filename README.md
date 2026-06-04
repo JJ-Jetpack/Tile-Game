@@ -14,5 +14,7 @@ Assets:
 
 -- Chest: [Animated Chest | Pixless](https://pixless.itch.io/animated-chest)
 
+-- Enemies: [Enemy Galore I | admurin](https://admurin.itch.io/enemy-galore-1)
+
 Music:
 [Abstraction - Music Loop Bundle](https://tallbeard.itch.io/music-loop-bundle)
