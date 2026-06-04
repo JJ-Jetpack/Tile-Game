@@ -12,5 +12,7 @@ Assets:
 
 -- Characters: [Pixel Art Sprites | Free Animated Character Asset 16x16](https://meafabulis.itch.io/pixel-art-sprites-free-animated-character-asset)
 
+-- Chest: [Animated Chest | Pixless](https://pixless.itch.io/animated-chest)
+
 Music:
 [Abstraction - Music Loop Bundle](https://tallbeard.itch.io/music-loop-bundle)
